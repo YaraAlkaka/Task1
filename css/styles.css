@@ -1,0 +1,74 @@
+body{
+  background-attachment: fixed;
+    background-position: center;
+    background-image:url("https://images.wallpaperscraft.com/image/clouds_mountains_art_127406_2560x1080.jpg");
+  }
+
+
+h1{
+  text-align: center;
+  margin-bottom: 100px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 92px;
+  color: #40031F
+}
+hr{
+  border: dashed;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.name{
+  padding-right: 2.2%;
+  font-size: 20px;
+}
+.email{
+  padding-right:  2.2%;
+  font-size: 20px;
+}
+.password{
+  font-size: 20px;
+}
+.submit{
+  margin-left: 250px;
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EC8AB7;
+}
+div{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  border-color: black;
+  border-width: 5px;
+  border: solid;
+
+}
+.sq1{
+  background: #EA86CF;
+  position: absolute;
+}
+.sq2{
+  background: #A23F87;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.sq3{
+  background: #5D0F48;
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 20px;
+}
+.tasks{
+  font-size: 50px;
+  color: #40031F;
+}
+.title{
+  font-size: 50px;
+  color: #40031F;
+}
